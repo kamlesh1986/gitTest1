@@ -10,6 +10,12 @@ namespace ConsoleApp1
     {
         static void Main(string[] args)
         {
+           
+        }
+        public int sum()
+        {
+            return 0;
         }
     }
+
 }
